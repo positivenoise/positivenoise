@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![View Count](https://githubrockstar.dev/api/view-count?user=positivenoise)
+![View Count ](https://githubrockstar.dev/api/view-count?user=positivenoise)
 <!--
 **positivenoise/positivenoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
